@@ -1,0 +1,6 @@
+.env
+.env/
+oil_analysis.log
+oil_analysis.py
+cache/
+data/
