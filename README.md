@@ -39,7 +39,7 @@ The collector implements fallback mechanisms when primary data sources are unava
 
 ```bash
 git clone <repository-url>
-cd MIE1624_oil_output
+cd economic_indicator_datacollector
 ```
 
 2. Install dependencies:
